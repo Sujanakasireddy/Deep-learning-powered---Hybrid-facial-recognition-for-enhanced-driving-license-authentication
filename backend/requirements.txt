@@ -12,6 +12,7 @@ python-dotenv>=1.0.0
 imutils>=0.5.4
 urllib3<2.0.0
 easyocr>=1.7.0
+python-bidi==0.4.2
 
 # ML Frameworks
 torch>=2.2.0
